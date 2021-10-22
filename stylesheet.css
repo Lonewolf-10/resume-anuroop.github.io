@@ -1,0 +1,43 @@
+table{
+    width: 700px;
+
+}
+th{
+    text-align: left;
+padding: 2px;
+
+}
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+td{
+    padding: 5px;
+}
+caption{
+    text-align :left ;
+}
+body{
+    background-color: rgb(221, 234, 236);
+}
+#header{
+    background-color: rgb(54, 170, 190);
+}
+
+
+#email {
+    font-size: large;
+color: azure;
+}
+.train{
+font-size: medium;
+
+}
+.testimonial-section{
+    text-align: center;
+}
+#name{
+font-size:xx-large;
+color: azure;
+}
+
